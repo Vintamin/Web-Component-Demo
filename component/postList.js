@@ -40,3 +40,4 @@ class PostList extends HTMLElement {
 }
 // 这里必须加上中划线 - 目的是为了区分原生的HTML
 customElements.define("post-list",PostList);
+console.log('我是main分支');
